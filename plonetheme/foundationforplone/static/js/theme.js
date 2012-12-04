@@ -1,0 +1,5 @@
+
+function initializeplonethemefoundationforplone(){
+
+}
+jQuery(initializeplonethemefoundationforplone);
